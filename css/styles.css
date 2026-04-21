@@ -865,7 +865,7 @@ a {
 .backdrop-modal-send-button:hover,
 .backdrop-modal-send-button:focus {
     color: #e7e9fc;
-    background-color: var(--ocean);
+    background-color: #404bbf;
     cursor: pointer;
 }
 
