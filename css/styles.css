@@ -570,7 +570,7 @@ a {
 .footer-subscribe-input {
     font-weight: 400;
     font-size: 12px;
-    line-height: 1.5;
+    line-height: 2;
     letter-spacing: 0.04em;
     color: #fff;
     background-color: transparent;
@@ -616,7 +616,7 @@ a {
 
 .footer-subscribe-button:hover,
 .footer-subscribe-button:focus {
-    background-color: #404bbf;
+    background-color: #31d0aa;
 }
 
 .footer-subscribe-icon {
@@ -639,9 +639,6 @@ a {
     transition:
         opacity 250ms cubic-bezier(0.4, 0, 0.2, 1),
         visibility 250ms cubic-bezier(0.4, 0, 0.2, 1);
-    visibility: visible;
-    opacity: 1;
-    pointer-events: auto;
 }    
 
 .backdrop.is-open {
@@ -688,7 +685,7 @@ a {
 
 .backdrop-modal-close-button:focus,
 .backdrop-modal-close-button:hover {
-    background-color: #4d5ae5;
+    background-color: #404bbf;
     border: none;
 }
 
